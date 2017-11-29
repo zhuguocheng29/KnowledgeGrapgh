@@ -1,0 +1,3 @@
+IPC Client (1442191055) connection to ubuntu2/223.3.94.102:60020 from Think: got response header call_id: 41, totalSize: 14 bytes
+IPC Client (1442191055) connection to ubuntu2/223.3.94.102:60020 from Think: wrote request header call_id: 42 method_name: "Scan" request_param: true priority: 0
+IPC Client (1442191055) connection to ubuntu2/223.3.94.102:60020 from Think: got response header call_id: 42, totalSize: 8 bytes
