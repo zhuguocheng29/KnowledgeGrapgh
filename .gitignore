@@ -1,0 +1,8 @@
+/target/
+<<<<<<< HEAD
+/bin/
+/.classpath
+=======
+/bin/
+/.classpath
+>>>>>>> branch 'master' of git@223.3.94.21:yaosheng/KGStorage.git
